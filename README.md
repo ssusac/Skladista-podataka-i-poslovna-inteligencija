@@ -1,4 +1,4 @@
-# Analiza policijskih pucnjava u SAD-u.
+# Analiza podataka policijskih pucnjava u SAD-u.
 Podaci za ovaj rad pronađeni su na stranici Keggle. U radu je prikazan primjer 
 analize policijskih pucnjava u Americi kroz izradu skladišta podataka i izradu izvještaja. Na 
 početku rada objašnjene su metode i tehnike, tj. procesi i tehnologije koje su korištene za 
